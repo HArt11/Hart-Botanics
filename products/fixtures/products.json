@@ -39,181 +39,156 @@
         "pk": 4,
         "model": "products.product",
         "fields": {
-            "sku": "pp5001890157",
-            "name": "Gibson Infinite Glaze 16-pc. Dinnerware Set",
-            "description": "An exhibition in contrast, this dinnerware sets simple, clean design is perfect for both everyday use and special occasions. durable stoneware construction microwave and oven safe service for 4 16-piece set includes: four 10\" dinner plates four 7\" dessert plates four 6\" bowls four 12-ounce mugs Stoneware. Dishwasher safe. Imported.",
-            "price": 169.99,
-            "category": 7,
-            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-            "image": "DP0716201503423610M.jpg"
+            "sku": "jp123",
+            "name": "Jade Tree",
+            "description": "The Jade Tree or Crassula ovata can grow upto 2m tall. Easy to care for, the secret is not to overwater. Supplied in 12cm pot, approx 15cm tall.",
+            "price": 9.00,
+            "category": 2,
+            "image": "jadeplant.png"
         }
     },
     {
         "pk": 5,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002111605",
-            "name": "Simply Calphalon Enameled Cast Iron Panini Pan",
-            "description": "Durable enameled cast iron construction allows the panini pan to heat evenly, so you can whip up a meal with ease and complete confidence.  cooks with little to no oils or fats so every recipe is healthier nonstick interior for quick and easy clean-ups stainless steel knob on cover enameled cast iron heats evenly and consistently stove, broiler and oven safe Cast iron/stainless steel. Dishwasher safe. Imported. ",
-            "price": 232.99,
-            "category": 7,
-            "rating": 5.0,
-            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-            "image": "DP1115201210371197C.jpg"
+            "sku": "bec123",
+            "name": "Bunny Ears Cactus",
+            "description": "The quirky Bunny Ears Cactus, or Opuntia microdasys, is an eye catching cactus. When you think of cacti, this is probably the fella you're thinking of. Supplied in a funky two-handled rough ceramic mug, it brings the heat into the home.",
+            "price": 7.00,
+            "category": 2,
+            "image": "bunnyearscactus.jpg"
         }
     },
     {
         "pk": 6,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002260206",
-            "name": "The Foundry Supply Co. Solid Pocket TeeBig & Tall",
-            "description": "Get a better basic tee in a size that truly fits with this pocket t-shirt from The Foundry Supply Co.  short-sleeve, crew-neck tee left chest pocket 100% cotton washable imported",
-            "price": 30.99,
-            "category": 9,
-            "rating": 4.7,
-            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0624201520422666C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-            "image": "DP0624201520422666C.jpg"
+            "sku": "pc12345",
+            "name": "The Snuggler",
+            "description": "Purely for decorative purposes, this plant cosy gives your plants a warm snuggly look. Gone are the days of plant pots, get wearable for your plants! Suitable for hand washing when needed, fits pots upto 12cm. Knitted with faux fur lining in neutral colours",
+            "price": 18.00,
+            "category": 6,
+            "image": "plantcosy1.jpg"
         }
     },
     {
         "pk": 7,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002440521",
-            "name": "Liz Claiborne Classic Sophie Secretly Slender Trouser Leg Pants - Plus",
-            "description": "Walk a little taller in our slimming straight-leg pants. flat front slim fit straight leg front fly with nylon zipper, hook and bar closure 32\" inseam polyester/rayon/spandex washable imported ",
-            "price": 59.0,
-            "category": 4,
-            "rating": 4.4,
-            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-            "image": "DP0226201317034754M.jpg"
+            "sku": "pl1234",
+            "name": "Peacelily, Botanical illustrational style",
+            "description": "Supplied in a bold black frame, makes a simple and effective piece of art",
+            "price": 16.00,
+            "category": 7,
+            "image": "peacelilyart1.jpg"
         }
     },
     {
         "pk": 8,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002601115",
-            "name": "Rachael Ray Ceramic Olive Oil Dispenser",
-            "description": "This olive oil dispenser is designed for storing extra virgin olive oil, so it's close at hand for drizzling on food.  24-ounce capacity cruet opaque bottle and non-porous glazed interior keep oil in the dark to avoid oxidation and preserve taste playful, contemporary design Stoneware. Dishwasher-safe. Imported.",
-            "price": 36.99,
-            "category": 7,
-            "rating": 4.5,
-            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0926201317071162M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-            "image": "DP0926201317071162M.jpg"
+            "sku": "pc23445",
+            "name": "Snake Snuggler",
+            "description": "This cosy gives the effect of a snake wrapped around the plant. This fits upto 15cm pots, and has a polyester filling to plump it out.",
+            "price": 17.00,
+            "category": 6,
+            "image": "plantcosy2.jpg"
         }
     },
     {
         "pk": 9,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002690715",
-            "name": "Protech Performance Sheet Set",
-            "description": "Protech sheets are like activewear for your bed! The same cutting edge technology that is used in today's sportswear is also used in these Protech Plus sheets to give you a better night's sleep. Breathable ultra-fine microfiber wicks away moisture, keeping your body cool throughout the night while a 4-way stretch component allows you comfort in movement. This stretching ability also helps while making the bed, fitting most premium size mattresses; you won't have to struggle to get the sheets to fit all the way around.  4-way stretch component allows you comfort in movement available in a variety of solid colors microfiber knit fits mattresses up to 19\" deep Set includes: fitted sheet flat sheet 2 pillowcases Polyester/spandex. Washable. Imported. Full: 54x75 Queen: 60x80 King: 78x80 Cal. King: 72x84",
-            "price": 169.99,
-            "category": 2,
-            "rating": 4.7,
-            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1020201517025390M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-            "image": "DP1020201517025390M.jpg"
+            "sku": "sp5002690715",
+            "name": "Spider Plant",
+            "description": "Lush green varigated leaf varity, easy to care for. Allow to grow large for a statement asthetic. Works well with our hangers to improve the trailing effect from the offspring. Supplied in 12cm pot",
+            "price": 6.00,
+            "category": 1,
+            "image": "spiderplant1.jpg"
         }
     },
     {
         "pk": 10,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002701115",
-            "name": "Reflections Set of 4 Microfiber Napkins",
-            "description": "Complete the look of your table setting with these easy-care microfiber napkins.  great for everyday use or entertaining liquid-resistant design helps protect against spills set of 4 Polyester.Each measures 19x19\". Washable. Imported.",
-            "price": 33.99,
-            "category": 7,
-            "rating": 4.4,
-            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0418201317011949M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-            "image": "DP0418201317011949M.jpg"
+            "sku": "sn5002701115",
+            "name": "Snake Plant",
+            "description": "A very easy to care for plant that does not require bright light. Quite happy to grow in a low-light room our of direct sun",
+            "price": 7.00,
+            "category": 1,
+            "image": "snakeplant1.jpg"
         }
     },
     {
         "pk": 11,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002761055",
-            "name": "Chef Designs Black-Trimmed Cook ShirtBig & Tall",
-            "description": "Stylish black-trim cook shirt from Chef Designs is just what you need for a confident, professional presence in the kitchen.  contrasting black stand collar black front buttons left chest pocket short hemmed sleeves squared bottom hem polyester/cotton washable imported of domestic fabric more sizes: regular, big",
-            "price": 29.99,
-            "category": 9,
-            "rating": 3.0,
-            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-            "image": "0900631B81B0C2D9M.jpg"
+            "sku": "av5002761055",
+            "name": "Aloe Vera",
+            "description": "The Aloe Vera is well known for its health benefits. This attractive plant can provide more than just a Meditarian feel to your house",
+            "price": 23.00,
+            "category": 2,
+            "image": "aloevera.jpg"
         }
     },
     {
         "pk": 12,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002820069",
-            "name": "Nike 3-pk. Performance Crew Socks - Boys",
-            "description": "Keep him moving in comfort all day with quality Nike crew socks.  arch support reinforced toe and heel cotton/polyester/spandex washable imported",
-            "price": 19.99,
-            "category": 1,
-            "rating": 4.6,
-            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0510201317010521M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-            "image": "DP0510201317010521M.jpg"
+            "sku": "de5002820069",
+            "name": "Deals",
+            "description": "No deals available at present - but do keep checking!",
+            "price": 0.00,
+            "category": 9,
+            "image": "sale.jpg"
         }
     },
     {
         "pk": 13,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002820147",
-            "name": "Champion Jersey Tee",
-            "description": "Compete, exercise or simply relax in comfort with a classic tee from Champion, the brand that's been making quality athletic apparel since 1919.  regular fit crewneck taped neck left chest logo embroidery cotton except oxford and granite heather are cotton/polyester washable imported",
-            "price": 20.0,
-            "category": 9,
-            "rating": 3.2,
-            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-            "image": "DP0430201405053680M.jpg"
+            "sku": "sh5002820147",
+            "name": "Sloth Hanger",
+            "description": "This cosy sloth can hold upto 3kg. Ideal in a nursery or even for those young at heart. Not suitable for outdoor use",
+            "price": 40.0,
+            "category": 4,
+            "image": "slothhanger.jpg"
         }
     },
     {
         "pk": 14,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002910572",
-            "name": "Stafford 4-pk. Blended Cotton A-Shirts",
-            "description": "Stafford Big & Tall ribbed athletic t-shirts deliver the tagless comfort and breathable performance he needs.  super soft, quick-drying, durable fabric preshrunk for lasting fit reinforced durable stitching tag free cotton/polyester washable imported ",
-            "price": 26.99,
-            "category": 5,
-            "rating": 4.7,
-            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81C9387BM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-            "image": "0900631B81C9387BM.jpg"
+            "sku": "hp5002910572",
+            "name": "Branch Plant Display",
+            "description": "This branch comes with fixtures that can support up to 4 small plants, works well with trailing plants",
+            "price": 52.00,
+            "category": 4,
+            "image": "hanger1.jpg"
         }
     },
     {
         "pk": 15,
         "model": "products.product",
         "fields": {
-            "sku": "pp5002990740",
-            "name": "Stafford 4-pk. Heavyweight Crewneck T-ShirtsBig & Tall",
-            "description": "Soft and comfortable, two of his favorite things together in this heavyweight cotton tee from Stafford.  combed cotton heavier fabric for durability preshunk for lasting fit premium seaming reduces twisting tag free cotton washable imported",
-            "price": 48.99,
-            "category": 5,
-            "rating": 4.8,
-            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1029201317111469M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-            "image": "DP1029201317111469M.jpg"
+            "sku": "mh5002990740",
+            "name": "Moon Hanger",
+            "description": "This wooden hanger works best with trailing plants with upto 9cm plant pots ",
+            "price": 37.00,
+            "category": 4,
+            "image": "hanger2.jpg"
         }
     },
     {
         "pk": 16,
         "model": "products.product",
         "fields": {
-            "sku": "pp5003050248",
-            "name": "Levi's 529 Curvy Bootcut Jeans",
-            "description": "Levis 529 curvy bootcut jeans are flattering and perfect for any timeday or night.  sits below the waist slim fit through hip and thigh bootcut leg with 18\" opening smooth bottom 8\" front rise; 15\" back rise cotton/polyester/elastane washable imported misses average: 32\" inseam ",
-            "price": 65.99,
-            "category": 6,
-            "rating": 4.4,
-            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0918201520303373C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-            "image": "DP0918201520303373C.jpg"
+            "sku": "jp5003050248",
+            "name": "Jellyfish Airplant Hangers",
+            "description": "These are perfect to display airplants. The lack of a need for soil or pots can leave you wondering how to display your airplants. Various colours supplied ",
+            "price": 21.00,
+            "category": 4,
+            "image": "hanger3.jpg"
         }
     },
     {

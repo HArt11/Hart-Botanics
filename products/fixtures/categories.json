@@ -32,14 +32,6 @@
         }
     },
     {
-        "pk": 5,
-        "model": "products.category",
-        "fields": {
-            "name": "pots",
-            "friendly_name": "Pots"
-        }
-    },
-    {
         "pk": 6,
         "model": "products.category",
         "fields": {
@@ -67,20 +59,12 @@
         "pk": 9,
         "model": "products.category",
         "fields": {
-            "name": "botanical_art",
-            "friendly_name": "Botanical Art"
-        }
-    },
-    {
-        "pk": 10,
-        "model": "products.category",
-        "fields": {
             "name": "deals",
             "friendly_name": "Deals"
         }
     },
     {
-        "pk": 11,
+        "pk": 10,
         "model": "products.category",
         "fields": {
             "name": "clearance",
