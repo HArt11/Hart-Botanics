@@ -3,39 +3,36 @@
         "pk": 1,
         "model": "products.product",
         "fields": {
-            "sku": "pp5001340155",
-            "name": "Arizona Original Bootcut Jeans",
-            "description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
-            "price": 53.99,
-            "category": 6,
-            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-            "image": "DP0709201205510679M.jpg"
+            "sku": "gb1",
+            "name": "Golden Bonsai",
+            "description": "A beautiful Golden Bonsai, 20years old. Come with care guide to ensure it looks its best for many years to come. Supplied in an authentic oriental square pot",
+            "price": 360.00,
+            "category": 3,
+            "image": "bonasi3.jpg"
         }
     },
     {
         "pk": 2,
         "model": "products.product",
         "fields": {
-            "sku": "pp5001600425",
-            "name": "Liz Claiborne Audra Classic Fit Straight Leg Pants",
-            "description": "Straight-leg styling and on-the-job comfort make our Audra pants a flattering business decision. flat front zip fly with hook-and-bar closure 2 front and 2 back welt pockets 34 1/2\" inseam polyester/rayon/spandex washable imported",
-            "price": 58.99,
-            "category": 4,
-            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0113201617034987M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-            "image": "DP0113201617034987M.jpg"
+            "sku": "pb1",
+            "name": "Pine Bonsai",
+            "description": "A pine Bonsai, approximately 15years, in a shallow round ceramic pot. This traditional style of Bonsai is still eye-catching and a statement piece for the home.",
+            "price": 345.00,
+            "category": 3,
+            "image": "bonsai1.jpg"
         }
     },
     {
         "pk": 3,
         "model": "products.product",
         "fields": {
-            "sku": "pp5001730010",
-            "name": "Royal Velvet Matte Satin Square 3-pc. Coverlet Set",
-            "description": "Add a 5-star resort feel to your bedroom with the elegant Matte Satin Square coverlet set, featuring modern embroidered squares and flanged trim.  square embroidered pattern flanged-edge trim fabric is washable for easy care 3-piece set includes: coverlet 2 shams Polyester coverlet with cotton fill; polyester shams. Washable. Imported. Full/Queen: coverlet is 92x96\" King: coverlet is 110x96\"",
-            "price": 205.99,
-            "category": 2,
-            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-            "image": "DP1230201417013175M.jpg"
+            "sku": "cb1",
+            "name": "Cherry Bonsai",
+            "description": "The Cherry Tree is a firm favourite with bonsai enthusiasts. Supplied in a ceramic pot, may not be in bloom at time of purchase.",
+            "price": 330.00,
+            "category": 3,
+            "image": "bonsai2.jpg"
         }
     },
     {
