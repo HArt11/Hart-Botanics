@@ -18,10 +18,10 @@
                 Botanicals
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="plants-link">
-                <a href="" class="dropdown-item">House Plants</a>
-                <a href="" class="dropdown-item">Cacti &amp; Succulents</a>
-                <a href="" class="dropdown-item">Bonsai</a>
-                <a href="" class="dropdown-item">All Plants</a>
+                <a href="{% url 'products' %}?category=house_plants,house,plant" class="dropdown-item">House Plants</a>
+                <a href="{% url 'products' %}?category=cacti_succulent,cacti,succulents" class="dropdown-item">Cacti &amp; Succulents</a>
+                <a href="{% url 'products' %}?category=bonsai" class="dropdown-item">Bonsai</a>
+                <a href="{% url 'products' %}?category=house_plants,cacti_succulent,bonsai" class="dropdown-item">All Plants</a>
             </div>
         </li>
 
@@ -31,9 +31,9 @@
                 Plantware
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="plantwear-link">
-                <a href="" class="dropdown-item">Hangers</a>
-                <a href="" class="dropdown-item">Plant Cosies</a>
-                <a href="" class="dropdown-item">All Plantware</a>
+                <a href="{% url 'products' %}?category=hangers" class="dropdown-item">Hangers</a>
+                <a href="{% url 'products' %}?category=plant_cosies" class="dropdown-item">Plant Cosies</a>
+                <a href="{% url 'products' %}?category=hangers,plant_cosies" class="dropdown-item">All Plantware</a>
             </div>
         </li>
 
@@ -43,8 +43,8 @@
                 Giftshop
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="plants-link">
-                <a href="" class="dropdown-item">Botanical Art</a>
-                <a href="" class="dropdown-item">All Gifts</a>
+                <a href="{% url 'products' %}?category=botanical_art" class="dropdown-item">Botanical Art</a>
+                <a href="{% url 'products' %}?category=botanical_art" class="dropdown-item">All Gifts</a>
             </div>
         </li>
 
@@ -54,7 +54,7 @@
                 Special Offers
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">Deals</a>
+                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
                 <a href="" class="dropdown-item">All Specials</a>
             </div>
         </li>

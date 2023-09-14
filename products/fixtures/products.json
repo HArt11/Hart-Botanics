@@ -3,12 +3,12 @@
         "pk": 1,
         "model": "products.product",
         "fields": {
-            "sku": "gb1",
+            "sku": "gb1011",
             "name": "Golden Bonsai",
             "description": "A beautiful Golden Bonsai, 20years old. Come with care guide to ensure it looks its best for many years to come. Supplied in an authentic oriental square pot",
             "price": 360.00,
             "category": 3,
-            "image": "bonasi3.jpg"
+            "image": "bonsai3.jpg"
         }
     },
     {
@@ -179,8 +179,20 @@
             "image": "hanger2.jpg"
         }
     },
-    {
+        {
         "pk": 16,
+        "model": "products.product",
+        "fields": {
+            "sku": "bw5002990740",
+            "name": "Wearables",
+            "description": "Coming soon!",
+            "price": 0.00,
+            "category": 8,
+            "image": "coming.jpg"
+        }
+    },
+    {
+        "pk": 17,
         "model": "products.product",
         "fields": {
             "sku": "jp5003050248",
