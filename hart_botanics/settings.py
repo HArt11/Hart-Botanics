@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 from pathlib import Path
 import os
 
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -26,7 +27,8 @@ SECRET_KEY = 'django-insecure-_ge(149ppcua+j%ihfj2)wx(*$mk()=sgtwr3l5ew+(d(f1&n&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8001-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com']
+ALLOWED_HOSTS = [
+    '8000-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com', '8001-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com']
 
 
 # Application definition
@@ -168,7 +170,7 @@ STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
-#Stripe
+# Stripe
 FREE_DELIVERY_THRESHOLD = 50
 STANDARD_DELIVERY_PERCENTAGE = 10
 STRIPE_CURRENCY = 'gbp'
