@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = [
-    '8000-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com', '8001-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com', '8000-hart11-hart-botanics-rkft4yohqn.us2.codeanyapp.com', 'localhost', 'hart-botanics.herokuapp.com']
+    '8000-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com', '8001-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com', '8000-hart11-hart-botanics-rkft4yohqn.us2.codeanyapp.com', 'localhost', 'hart-botanics-172db39bdb51.herokuapp.com']
 
 
 # Application definition
