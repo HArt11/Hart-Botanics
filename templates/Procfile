@@ -1,0 +1,1 @@
+web: gunicorn hart_botanics.wsgi:application
