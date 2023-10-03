@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = [
-    '8000-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com', '8001-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com', '8000-hart11-hart-botanics-rkft4yohqn.us2.codeanyapp.com', 'localhost', 'hart-botanics-172db39bdb51.herokuapp.com']
+    '8000-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com', '8001-hart11-hart-botanics-g552o9dmkf.us2.codeanyapp.com', '8000-hart11-hart-botanics-rkft4yohqn.us2.codeanyapp.com', 'localhost', 'hart-botanics-172db39bdb51.herokuapp.com']  # noqa
 
 
 # Application definition
@@ -49,7 +49,7 @@ INSTALLED_APPS = [
     'bag',
     'checkout',
     'profiles',
-   
+
     # extra
     'crispy_forms',
     'storages',
@@ -80,7 +80,7 @@ TEMPLATES = [
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
-                'django.template.context_processors.request',  # required by allauth
+                'django.template.context_processors.request',  # required by allauth  # noqa
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
                 'django.template.context_processors.media',
@@ -139,19 +139,22 @@ else:
 
 AUTH_PASSWORD_VALIDATORS = [
     {
-        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
+        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',  # noqa
+
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',
+        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',  # noqa
+
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',
+        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',  # noqa
+
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
+        'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',  # noqa
+
     },
 ]
-
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
