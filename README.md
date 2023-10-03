@@ -2,11 +2,10 @@
 
 # **Hart Botanics**
 
-This website has been created to sell a selection of plants and plant-based gifts . It has been designed with a range of different screen sizes in mind so users can make a purchase and browse on a variety of screen sizes including mobile, tablet and desktop.
+This website has been created to sell a selection of plants and plant-based gifts . It has been designed with a range of different screen sizes in mind so users can make a purchase and browse on a variety of screen sizes including mobile, tablet and desktop. Screenshots are available in the screenshots PDF.
 
-!["Am I Responsive" image](static/images/readme/amiresponsivegraevehart.jpg)
 
-[View the live project here](https://graevehart-8728b4cc664b.herokuapp.com/)
+[View the live project here](https://hart-botanics-172db39bdb51.herokuapp.com/)
 
 ---
 <br/>
@@ -135,24 +134,9 @@ Mobile
 <details>
 <summary>My Profile</summary>
 
-Desktop
-
-![Desktop My Profile Wireframe](media/wireframes/wire_profile.jpg)
-
 Mobile
 
 ![Mobile My Profile Wireframe](media/wireframes/wire_mobile_profile.jpg)
-
-</details>
-<br>
-
-<details>
-<summary>Logout</summary>
-
-Desktop
-
-![Desktop Logout Wireframe](media/bonasi3.jpgwireframes/wire_sign_out.jpg)
-
 
 </details>
 <br>
@@ -169,10 +153,6 @@ Desktop
 
 <details>
 <summary>Sign-in</summary>
-
-Desktop
-
-![Desktop Register Wireframe](media/wireframes/wire_sign_in.jpg)
 
 Mobile
 
@@ -212,10 +192,6 @@ Mobile
 <details>
 <summary>Checkout Success</summary>
 
-Desktop
-
-![Desktop Checkout Success Wireframe](media/wireframes/wire_checkout_success.jpg)
-
 Mobile
 
 ![Mobile Checkout Success Wireframe](media/wireframes/wire_mobile_checkout_success.jpg)
@@ -238,7 +214,7 @@ Modern, clean and sleek are the basis for this e-commerce website. I have chosen
 
 The database schema shows the current models in the database. The datbase model is based on the model used in the Boutique Ado Walkthrough and remains relatively unchanged.
 
-![Database Schema](media/schema.jpgschema.jpg)
+![Database Schema](media/wireframes/schema.jpg)
 
 ## **Features**
 
