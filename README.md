@@ -95,11 +95,11 @@ Wireframes for the website (please click arrows for images).
 
 Desktop
 
-![Desktop Index Wireframe](static/images/readme/wireframes/wire_index.jpg)
+![Desktop Index Wireframe](media/wireframes/wire_index.jpg)
 
 Mobile
 
-![Mobile Index Wireframe](static/images/readme/wireframes/wire_mobile_index.jpg)
+![Mobile Index Wireframe](media/wireframes/wire_mobile_index.jpg)
 
 </details>
 <br>
@@ -109,25 +109,11 @@ Mobile
 
 Desktop
 
-![Desktop Products Wireframe](static/images/readme/wireframes/wire_products.jpg)
+![Desktop Products Wireframe](media/wireframes/wire_products.jpg)
 
 Mobile
 
-![Mobile Products Wireframe](static/images/readme/wireframes/wire_mobile_products.jpg)
-
-</details>
-<br>
-
-<details>
-<summary>Product Detail</summary>
-
-Desktop
-
-![Desktop Products Wireframe](static/images/readme/wireframes/wire_product_detail.jpg)
-
-Mobile
-
-![Mobile Products Wireframe](static/images/readme/wireframes/wire_mobile_products.jpg)
+![Mobile Products Wireframe](media/wireframes/wire_mobile_products.jpg)
 
 </details>
 <br>
@@ -137,11 +123,11 @@ Mobile
 
 Desktop
 
-![Desktop Product Management Wireframe](static/images/readme/wireframes/wire_product_management.jpg)
+![Desktop Product Management Wireframe](media/wireframes/wire_product_management.jpg)
 
 Mobile
 
-![Mobile Product Management Wireframe](static/images/readme/wireframes/wire_mobile_product_management.jpg)
+![Mobile Product Management Wireframe](media/wireframes/wire_mobile_product_management.jpg)
 
 </details>
 <br>
@@ -151,11 +137,11 @@ Mobile
 
 Desktop
 
-![Desktop My Profile Wireframe](static/images/readme/wireframes/wire_profile.jpg)
+![Desktop My Profile Wireframe](media/wireframes/wire_profile.jpg)
 
 Mobile
 
-![Mobile My Profile Wireframe](static/images/readme/wireframes/wire_mobile_profile.jpg)
+![Mobile My Profile Wireframe](media/wireframes/wire_mobile_profile.jpg)
 
 </details>
 <br>
@@ -165,11 +151,8 @@ Mobile
 
 Desktop
 
-![Desktop Logout Wireframe](static/images/readme/wireframes/wire_sign_out.jpg)
+![Desktop Logout Wireframe](media/bonasi3.jpgwireframes/wire_sign_out.jpg)
 
-Mobile
-
-![Mobile Logout Wireframe](static/images/readme/wireframes/wire_mobile_logout.jpg)
 
 </details>
 <br>
@@ -179,11 +162,7 @@ Mobile
 
 Desktop
 
-![Desktop Register Wireframe](static/images/readme/wireframes/wire_sign_up.jpg)
-
-Mobile
-
-![Mobile Register Wireframe](static/images/readme/wireframes/wire_mobile_register.jpg)
+![Desktop Register Wireframe](media/wireframes/wire_sign_up.jpg)
 
 </details>
 <br>
@@ -193,11 +172,11 @@ Mobile
 
 Desktop
 
-![Desktop Register Wireframe](static/images/readme/wireframes/wire_sign_in.jpg)
+![Desktop Register Wireframe](media/wireframes/wire_sign_in.jpg)
 
 Mobile
 
-![Mobile Register Wireframe](static/images/readme/wireframes/wire_mobile_login.jpg)
+![Mobile Register Wireframe](media/wireframes/wire_mobile_login.jpg)
 
 </details>
 <br>
@@ -207,11 +186,11 @@ Mobile
 
 Desktop
 
-![Desktop Shopping Bag Wireframe](static/images/readme/wireframes/wire_bag.jpg)
+![Desktop Shopping Bag Wireframe](media/wireframes/wire_bag.jpg)
 
 Mobile
 
-![Mobile Register Wireframe](static/images/readme/wireframes/wire_mobile_bag.jpg)
+![Mobile Register Wireframe](media/wireframes/wire_mobile_bag.jpg)
 
 </details>
 <br>
@@ -221,11 +200,11 @@ Mobile
 
 Desktop
 
-![Desktop Checkout Wireframe](static/images/readme/wireframes/wire_checkout.jpg)
+![Desktop Checkout Wireframe](media/wireframes/wire_checkout.jpg)
 
 Mobile
 
-![Mobile Checkout Wireframe](static/images/readme/wireframes/wire_mobile_checkout.jpg)
+![Mobile Checkout Wireframe](media/wireframes/wire_mobile_checkout.jpg)
 
 </details>
 <br>
@@ -235,11 +214,11 @@ Mobile
 
 Desktop
 
-![Desktop Checkout Success Wireframe](static/images/readme/wireframes/wire_checkout_success.jpg)
+![Desktop Checkout Success Wireframe](media/wireframes/wire_checkout_success.jpg)
 
 Mobile
 
-![Mobile Checkout Success Wireframe](static/images/readme/wireframes/wire_mobile_checkout_success.jpg)
+![Mobile Checkout Success Wireframe](media/wireframes/wire_mobile_checkout_success.jpg)
 
 </details>
 <br>
@@ -252,12 +231,6 @@ Modern, clean and sleek are the basis for this e-commerce website. I have chosen
 
 <br/>
 
-### **Typography**
-
-Google Fonts was used to import the "Handlee" Font. This is used for all text throughout the website.
-
-<br/>
-
 ---
 <br/>
 
@@ -265,7 +238,7 @@ Google Fonts was used to import the "Handlee" Font. This is used for all text th
 
 The database schema shows the current models in the database. The datbase model is based on the model used in the Boutique Ado Walkthrough and remains relatively unchanged.
 
-![Database Schema](static/images/readme/database_schema.jpg)
+![Database Schema](media/schema.jpgschema.jpg)
 
 ## **Features**
 
@@ -285,6 +258,7 @@ The website is made up of 12 pages:
 * Checkout Success
 
 Previews of each part can be viewed by clicking the arrows below.
+Please refer to the embedded PDF project 4 ss file for images 
 
 <br/>
 
@@ -294,8 +268,6 @@ The index page has:
 
    <details>
    <summary>A "Shop Now" button, which takes the user to the "All Products" page</summary>
-
-   ![Shop Now Button](static/images/readme/shop_now.jpg)
 
    </details>     
 
@@ -308,15 +280,11 @@ The Products page has the following features:
    <details>
    <summary>A list of products, which, when clicked, takes the user to the detail page of that specific product.</summary>
 
-   ![Products](static/images/readme/products.jpg)
-
    </details>
    <br>
 
    <details>
    <summary>If the user is a superuser, then at the bottom of each product are links to either edit or delete the product.</summary>
-
-   ![Edit or Delete](static/images/readme/edit_delete.jpg)
 
    </details>
    <br>
@@ -324,7 +292,6 @@ The Products page has the following features:
    <details>
    <summary>Text which lets the user know how many products there are in the category they are browsing. When the user is filtering products, this also shows a link to "Products Home"</summary>
 
-   ![Product Amount & Link](static/images/readme/product_amount.jpg)
 
    </details>
    <br>
@@ -332,23 +299,20 @@ The Products page has the following features:
    <details>
    <summary>A dropdown box with the ability to sort by price (low to high), price (high to low), name (a-z), name (z-a). </summary>
 
-   ![Sort Dropdown](static/images/readme/sort_dropdown.jpg)
-
+  
    </details>
    <br>
 
    <details>
    <summary>Category boxes appear when you are seeing the product page in any view other than 'all products'. They show the user which categories they are currently viewing and can be clicked on to take the user to a specific category.</summary>
 
-   ![Category Boxes](static/images/readme/categories.jpg)
-
+ 
    </details>
    <br>
 
    <details>
    <summary>A scroll-up button on the bottom-right-hand-side of the page, which when clicked, will automatically scroll the page up to the top.</summary>
 
-   ![Scroll Up](static/images/readme/scroll.jpg)
 
    </details>
 
@@ -359,7 +323,6 @@ The Product Detail page has the following features:
    <details>
    <summary>When clicking on the product image, it opens in a new tab for a clearer view.</summary>
 
-   ![Product Image](static/images/readme/product.jpg)
 
    </details>
    <br>
@@ -367,15 +330,11 @@ The Product Detail page has the following features:
    <details>
    <summary>Details page showing information about the plant or gift.</summary>
 
-   ![Product Details](static/images/readme/details.jpg)
-
    </details>
    <br>
    
    <details>
    <summary>If the user would like more than one of the products, they can adjust the quantity.</summary>
-
-   ![Quantity Adjuster](static/images/readme/quantity.jpg)
 
    </details>
    <br>
@@ -383,7 +342,6 @@ The Product Detail page has the following features:
    <details>
    <summary>A keep shopping button that takes the user back to the products page to view all products.</summary>
 
-   ![Keep Shopping Button](static/images/readme/keep_shopping.jpg)
 
    </details>
    <br>
@@ -391,7 +349,6 @@ The Product Detail page has the following features:
    <details>
    <summary>A button that will add the desired quantity of the product to the user’s checkout cart.</summary>
 
-   ![Add to Bag Button](static/images/readme/add.jpg)
 
    </details>
   
@@ -401,7 +358,6 @@ The Product Detail page has the following features:
    <details>
    <summary>The Product Management page is only available to logged-in superusers and has a form that will allow the user to add a product.</summary>
 
-   ![Add Product Form](static/images/readme/add_product.jpg)
    
    </details>
    <br>
@@ -415,7 +371,6 @@ The My Profile page has the following features:
    <details>
    <summary>A form where the user can update their personal information, which is then auto filled on the checkout form.</summary>
 
-   ![User Information Form](static/images/readme/user_info.jpg)
    
    </details>
    <br>
@@ -423,7 +378,6 @@ The My Profile page has the following features:
    <details>
    <summary>A section that shows the user their order history.</summary>
 
-   ![Order History](static/images/readme/order_history.jpg)
    
    </details>
    <br>
@@ -435,7 +389,6 @@ The My Profile page has the following features:
    <details>
    <summary>The Logout page has a cancel button which takes the user back to the product page, and a sign-out button, which signs the user out.</summary>
 
-   ![Sign Out](static/images/readme/sign_out.jpg)
    
    </details>
    <br>
@@ -451,7 +404,6 @@ The My Profile page has the following features:
    * A form for the user to sign up if they do not already have an account. 
    * This page is only seen if the user is not signed in.
 
-      ![Register](static/images/readme/register.jpg)
    
    </details>
    <br>
@@ -466,7 +418,6 @@ The My Profile page has the following features:
    * A login button that takes the user to the login page in case they already have an account.
    * A form for the user to input the necessary details to create an account.
 
-      ![Sign In](static/images/readme/sign_in.jpg)
    
    </details>
    <br>
@@ -480,8 +431,7 @@ The Shopping bag page has the following features:
    <details>
    <summary>The details of the products being bought, with an option to update the amount or remove each product.</summary>
    
-   ![Shopping Bag](static/images/readme/shopping_bag.jpg)
-   
+  
    </details>
    <br>
 
@@ -490,8 +440,7 @@ The Shopping bag page has the following features:
    / A button to return the user to the products page.
    / A button to continue to the checkout.</summary>
    
-   ![Shopping Buttons](static/images/readme/shopping_buttons.jpg)
-   
+  
    </details>
    <br>
 
@@ -504,15 +453,11 @@ The Checkout page has the following features:
    <details>
    <summary>A form for the user details needed to check out.</summary>
    
-   ![Checkout Form](static/images/readme/checkout_form.jpg)
-   
    </details>
    <br>
 
    <details>
    <summary>The order summary / A button to send the user back to be able to adjust their bag / A button to submit their order</summary>
-   
-   ![Order Summary](static/images/readme/order_summary.jpg)
    
    </details>
    <br>
@@ -526,7 +471,6 @@ The Checkout success page has the following feature:
    <details>
    <summary>Information about the user order</summary>
    
-   ![Checkout Success](static/images/readme/checkout_success.jpg)
    
    </details>
    <br>
@@ -538,7 +482,6 @@ The Checkout success page has the following feature:
    <details>
    <summary>A logo that when clicked takes the user back to the index page.</summary>
    
-   ![Logo](static/images/readme/logo.jpg)
    
    </details>
    <br>
@@ -546,12 +489,9 @@ The Checkout success page has the following feature:
    <details>
    <summary>A search function</summary>
    
-   ![Search bar](static/images/readme/search.jpg)
    
    </details>
    <br>
-
-   ![Menu links](static/images/readme/menu_links.jpg)
    
    </details>
    <br>
@@ -560,7 +500,6 @@ The Checkout success page has the following feature:
    <summary>A drop-down menu for the user account. Which only shows 'log in' and 'register' if the user is not logged in, but shows 'product management' (if superuser), 'my profile', and 'logout'.
    / A link to the user’s shopping trolley</summary>
    
-   ![My Account](static/images/readme/my_account.jpg)
    
    </details>
    <br>
@@ -574,7 +513,6 @@ Many messages are included to alert the user that they have accomplished an acti
    <details>
    <summary>When adding a product to their checkout bag.</summary>
    
-   ![Add Product to Bag](static/images/readme/add_product_toast.jpg)
    
    </details>
    <br>
@@ -582,7 +520,6 @@ Many messages are included to alert the user that they have accomplished an acti
    <details>
    <summary>Successfully placing an order.</summary>
    
-   ![Order Success](static/images/readme/order_success_toast.jpg)
    
    </details>
    <br>
@@ -624,7 +561,6 @@ HTML5, CSS3, Python, and JavaScript were used to create this website.
 * [Google Fonts](https://fonts.google.com/) was used to import the font used throughout the website.
 * [Git](https://git-scm.com/) was used for version control by using the Gitpod terminal to commit to Git and Push to GitHub.
 * [GitHub](https://github.com/) was used to store the projects' code, and to handle version control.
-* [Photopea](https://www.photopea.com) was used to edit and crop images.
 * [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) was used to troubleshoot and test features and solve issues with responsiveness and styling.
 * [Am I Responsive?](https://ui.dev/amiresponsive) was used to show the website on a range of devices.
 * [Psycopg2](https://www.psycopg.org/docs/) was used to connect Python code with the database. 
@@ -635,7 +571,6 @@ HTML5, CSS3, Python, and JavaScript were used to create this website.
 * [Bing Image Creator](https://www.bing.com/create) was used to create the artwork.
 * [Font Awesome](https://fontawesome.com/) was used for the icons.
 * [Amazon Web Services](https://aws.amazon.com/) was used to host the images for the Heroku-hosted site.
-* [Favicon Generator](https://favicon.io/favicon-converter/) was used to use convert my favicon design into something useable.
 
 ---
 
@@ -835,7 +770,7 @@ The following tests were carried out by several people using several devices, ea
 
 ### **Known Bugs**
 
-There are no known bugs outstanding within the Graevehart Website.
+There are no known bugs outstanding within the Hart Botanics web app.
 
 ---
 <br/>
